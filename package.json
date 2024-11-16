@@ -1,0 +1,11 @@
+{
+  "name": "ArduinoProjectControll",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "prisma": "^5.22.0",
+    "ts-node": "^10.9.2"
+  }
+}
